@@ -1,0 +1,9 @@
+assignment on control structures
+    A)	Explain when its advisable to use the following repetition control structures 
+ For loop: Use a for loop when you know the number of iterations required. For example, if you want to iterate over an array or a list, you can use a for loop to iterate over each element in the collection. 
+ While loop: Use a while loop when you don’t know the number of iterations required, but you know the condition that must be met to terminate the loop. For example, if you want to read input from the user until they enter a specific value, you can use a while loop to keep reading input until the condition is met.
+ Do-while loop: Use a do-while loop when you want to execute the loop at least once, regardless of whether the condition is met or not. For example, if you want to prompt the user for input and then validate the input, you can use a do-while loop to ensure that the user is prompted at least once. 
+
+B)	Explain the difference between while loop and do while loop
+                 
+In a while loop, the condition is checked at the beginning of the loop. If the condition is true, the block of code is executed. If the condition is false, the loop is terminated. In a do-while loop, the block of code is executed at least once before the condition is checked. If the condition is true, the block of code is executed again. If the condition is false, the loop is terminated.
